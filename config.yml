@@ -1,0 +1,52 @@
+validator:
+  name: bob
+  staked: 175000000000000ugrt
+client:
+  openapi:
+    path: docs/static/openapi.yml
+faucet:
+  name: bob
+  coins:
+    - 5ugrt
+genesis:
+  chain_id: stella-1
+  app_state:
+    crisis:
+      constant_fee:
+        denom: ugrt
+        amount: "1000"
+    gov:
+      voting_params:
+        voting_period: "5m"
+      deposit_params:
+        min_deposit:
+          - denom: ugrt
+            amount: "10000000"
+    mint:
+      minter:
+        annual_provisions: "0.0"
+        inflation: "0.0"
+      params:
+        blocks_per_year: "6311520"
+        goal_bonded: "0.67"
+        inflation_max: "0.2"
+        inflation_min: "0.07"
+        inflation_rate_change: "0.13"
+        mint_denom: ugrt
+    staking:
+      params:
+        bond_denom: ugrt
+    denom:
+      params:
+        creation_fee:
+          - amount: "1000000"
+            denom: "ugrt"
+    wasm:
+      params:
+        code_upload_access:
+          permission: "Everybody"
+        instantiate_default_permission: "Everybody"
+accounts:
+  - name: bob
+    coins:
+      - 175000000000000ugrt
