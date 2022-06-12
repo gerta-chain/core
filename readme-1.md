@@ -249,8 +249,8 @@ gertad keys add <account_name>
 Add your account to genesis and set an initial balance to start. Run the following commands to add your account and set the initial balance:
 
 ```bash
-gertad add-genesis-account $(gertad keys show <account_name> -a) 100000000uluna
-gertad gentx <account_name> 10000000uluna --chain-id=<testnet_name>
+gertad add-genesis-account $(gertad keys show <account_name> -a) 100000000ugrt
+gertad gentx <account_name> 10000000ugrt --chain-id=<testnet_name>
 gertad collect-gentxs
 ```
 
