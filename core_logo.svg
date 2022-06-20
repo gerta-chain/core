@@ -7,10 +7,11 @@
    width="18444.473"
    height="3305.5747"
    viewBox="0 0 18444.473 3305.5748"
-   sodipodi:docname="gerta.zip"
-   inkscape:export-filename="gerta.zip.png"
+   sodipodi:docname="core_logo.svg"
+   inkscape:export-filename="core_logo.svg"
    inkscape:export-xdpi="1.3716"
    inkscape:export-ydpi="1.3716"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,18 +33,19 @@
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.25775531"
-     inkscape:cx="1782.6985"
-     inkscape:cy="973.79178"
-     inkscape:window-width="1440"
-     inkscape:window-height="900"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.039697291"
+     inkscape:cx="4345.3847"
+     inkscape:cy="1410.6756"
+     inkscape:window-width="1419"
+     inkscape:window-height="522"
+     inkscape:window-x="13"
+     inkscape:window-y="96"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g88" />
+     inkscape:current-layer="g82"
+     inkscape:lockguides="false" />
   <g
      id="g82"
      inkscape:groupmode="layer"
@@ -51,11 +53,11 @@
      transform="matrix(1.3333333,0,0,-1.3333333,2020,1333.3333)">
     <g
        id="g86"
-       transform="translate(-1722.4089,2.6368082)">
+       transform="matrix(36.766617,0,0,58.54708,-8960.6768,-57199.937)">
       <g
          id="g88"
          clip-path="url(#clipPath92)"
-         transform="translate(-21.167724,-1.5119803)">
+         transform="matrix(0.54359416,0,0,0.15286261,-140.93795,891.29063)">
         <g
            id="g94"
            transform="matrix(1,0,0,1.2877508,471.23982,232.31668)">
